@@ -1,0 +1,88 @@
+{
+  "source": "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ExportView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Export",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Format",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Preview",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notes",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export format",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy to Clipboard",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share…",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "CSV is easiest to paste into Excel/Sheets.",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Separated format is easiest to paste into email/chat; each device entry is separated by a divider.",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copied",
+        "location": {
+          "startingColumn": 11,
+          "startingLine": 70
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Scan",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 7
+        }
+      },
+      {
+        "comment": "",
+        "key": "History",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 10
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 13
+        }
+      }
+    ]
+  },
+  "version": 1
+}

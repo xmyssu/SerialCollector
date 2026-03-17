@@ -1,0 +1,119 @@
+{
+  "" : {
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollector-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollector-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollector-primary-emit-module.dia",
+    "pch" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollector-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollector-primary.swiftdeps"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ContentView.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/DeviceLogStore.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ExportView.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ExportView.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ExportView.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ExportView.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ExportView.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ExportView.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ExportView.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ExportView.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ExportView~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/HistoryView.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/HistoryView.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/HistoryView.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/HistoryView.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/HistoryView.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/HistoryView.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/HistoryView.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/HistoryView.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/HistoryView~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ImagePickers.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/Models.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/OCRService.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/OCRService.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/OCRService.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/OCRService.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/OCRService.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/OCRService.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/OCRService.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/OCRService.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/OCRService~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ScanView.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ScanView.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ScanView.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ScanView.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ScanView.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ScanView.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ScanView.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ScanView.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ScanView~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/SerialCollectorApp.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollectorApp.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollectorApp.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollectorApp.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollectorApp.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollectorApp.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollectorApp.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollectorApp.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollectorApp~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/SerialExtraction.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ShareSheet.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ShareSheet.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ShareSheet.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ShareSheet.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ShareSheet.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ShareSheet.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ShareSheet.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ShareSheet.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ShareSheet~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,288 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		10A3A0012C0A000100000001 /* SerialCollectorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0002C0A000100000001 /* SerialCollectorApp.swift */; };
+		10A3A0032C0A000100000001 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0022C0A000100000001 /* ContentView.swift */; };
+		10A3A0052C0A000100000001 /* ScanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0042C0A000100000001 /* ScanView.swift */; };
+		10A3A0072C0A000100000001 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0062C0A000100000001 /* HistoryView.swift */; };
+		10A3A0092C0A000100000001 /* ExportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0082C0A000100000001 /* ExportView.swift */; };
+		10A3A00B2C0A000100000001 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A00A2C0A000100000001 /* Models.swift */; };
+		10A3A00D2C0A000100000001 /* DeviceLogStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A00C2C0A000100000001 /* DeviceLogStore.swift */; };
+		10A3A00F2C0A000100000001 /* OCRService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A00E2C0A000100000001 /* OCRService.swift */; };
+		10A3A0112C0A000100000001 /* SerialExtraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0102C0A000100000001 /* SerialExtraction.swift */; };
+		10A3A0132C0A000100000001 /* ImagePickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0122C0A000100000001 /* ImagePickers.swift */; };
+		10A3A0152C0A000100000001 /* ShareSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0142C0A000100000001 /* ShareSheet.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		10A3A0002C0A000100000001 /* SerialCollectorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerialCollectorApp.swift; sourceTree = "<group>"; };
+		10A3A0022C0A000100000001 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		10A3A0042C0A000100000001 /* ScanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanView.swift; sourceTree = "<group>"; };
+		10A3A0062C0A000100000001 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		10A3A0082C0A000100000001 /* ExportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportView.swift; sourceTree = "<group>"; };
+		10A3A00A2C0A000100000001 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		10A3A00C2C0A000100000001 /* DeviceLogStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceLogStore.swift; sourceTree = "<group>"; };
+		10A3A00E2C0A000100000001 /* OCRService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OCRService.swift; sourceTree = "<group>"; };
+		10A3A0102C0A000100000001 /* SerialExtraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerialExtraction.swift; sourceTree = "<group>"; };
+		10A3A0122C0A000100000001 /* ImagePickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickers.swift; sourceTree = "<group>"; };
+		10A3A0142C0A000100000001 /* ShareSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareSheet.swift; sourceTree = "<group>"; };
+
+		10A3A0202C0A000100000001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		10A3A0302C0A000100000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		10A3A0402C0A000100000001 = {
+			isa = PBXGroup;
+			children = (
+				10A3A0412C0A000100000001 /* SerialCollector */,
+				10A3A0422C0A000100000001 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+
+		10A3A0412C0A000100000001 /* SerialCollector */ = {
+			isa = PBXGroup;
+			children = (
+				10A3A0202C0A000100000001 /* Info.plist */,
+				10A3A0002C0A000100000001 /* SerialCollectorApp.swift */,
+				10A3A0022C0A000100000001 /* ContentView.swift */,
+				10A3A0042C0A000100000001 /* ScanView.swift */,
+				10A3A0062C0A000100000001 /* HistoryView.swift */,
+				10A3A0082C0A000100000001 /* ExportView.swift */,
+				10A3A00A2C0A000100000001 /* Models.swift */,
+				10A3A00C2C0A000100000001 /* DeviceLogStore.swift */,
+				10A3A00E2C0A000100000001 /* OCRService.swift */,
+				10A3A0102C0A000100000001 /* SerialExtraction.swift */,
+				10A3A0122C0A000100000001 /* ImagePickers.swift */,
+				10A3A0142C0A000100000001 /* ShareSheet.swift */,
+			);
+			path = SerialCollector;
+			sourceTree = "<group>";
+		};
+
+		10A3A0422C0A000100000001 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				10A3A0502C0A000100000001 /* SerialCollector.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		10A3A0602C0A000100000001 /* SerialCollector */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 10A3A0612C0A000100000001 /* Build configuration list for PBXNativeTarget "SerialCollector" */;
+			buildPhases = (
+				10A3A0622C0A000100000001 /* Sources */,
+				10A3A0302C0A000100000001 /* Frameworks */,
+				10A3A0632C0A000100000001 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SerialCollector;
+			productName = SerialCollector;
+			productReference = 10A3A0502C0A000100000001 /* SerialCollector.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		10A3A0702C0A000100000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					10A3A0602C0A000100000001 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 10A3A0712C0A000100000001 /* Build configuration list for PBXProject "SerialCollector" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 10A3A0402C0A000100000001;
+			productRefGroup = 10A3A0422C0A000100000001 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				10A3A0602C0A000100000001 /* SerialCollector */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		10A3A0632C0A000100000001 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		10A3A0622C0A000100000001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				10A3A0012C0A000100000001 /* SerialCollectorApp.swift in Sources */,
+				10A3A0032C0A000100000001 /* ContentView.swift in Sources */,
+				10A3A0052C0A000100000001 /* ScanView.swift in Sources */,
+				10A3A0072C0A000100000001 /* HistoryView.swift in Sources */,
+				10A3A0092C0A000100000001 /* ExportView.swift in Sources */,
+				10A3A00B2C0A000100000001 /* Models.swift in Sources */,
+				10A3A00D2C0A000100000001 /* DeviceLogStore.swift in Sources */,
+				10A3A00F2C0A000100000001 /* OCRService.swift in Sources */,
+				10A3A0112C0A000100000001 /* SerialExtraction.swift in Sources */,
+				10A3A0132C0A000100000001 /* ImagePickers.swift in Sources */,
+				10A3A0152C0A000100000001 /* ShareSheet.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXFileReference section (Products) */
+		10A3A0502C0A000100000001 /* SerialCollector.app */ = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = SerialCollector.app;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXFileReference section (Products) */
+
+/* Begin XCBuildConfiguration section */
+		10A3A0802C0A000100000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = SerialCollector/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.serialcollector.SerialCollector;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+
+		10A3A0812C0A000100000001 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = SerialCollector/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.serialcollector.SerialCollector;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+
+		10A3A0822C0A000100000001 /* Debug (Project) */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+
+		10A3A0832C0A000100000001 /* Release (Project) */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		10A3A0612C0A000100000001 /* Build configuration list for PBXNativeTarget "SerialCollector" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				10A3A0802C0A000100000001 /* Debug */,
+				10A3A0812C0A000100000001 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+
+		10A3A0712C0A000100000001 /* Build configuration list for PBXProject "SerialCollector" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				10A3A0822C0A000100000001 /* Debug (Project) */,
+				10A3A0832C0A000100000001 /* Release (Project) */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 10A3A0702C0A000100000001 /* Project object */;
+}
+

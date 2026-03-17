@@ -1,0 +1,56 @@
+{
+  "source": "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/HistoryView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "History",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search serial / name / notes",
+        "location": {
+          "startingColumn": 98,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete all history?",
+        "location": {
+          "startingColumn": 5,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "→ %@",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete all",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete all",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 61
+        }
+      }
+    ]
+  },
+  "version": 1
+}
