@@ -1,0 +1,104 @@
+{
+  "source": "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/EmailDraftView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mail is not available",
+        "location": {
+          "startingColumn": 11,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "To",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Subject",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Message",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "email@example.com",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pick from Contacts",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Subject",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "To send email from the app, set up a Mail account on this iPhone (Settings → Mail → Accounts). You can still copy/share the text from Export.",
+        "location": {
+          "startingColumn": 10,
+          "startingLine": 78
+        }
+      }
+    ]
+  },
+  "version": 1
+}

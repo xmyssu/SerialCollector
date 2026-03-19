@@ -88,18 +88,10 @@ struct ScanView: View {
 				}
 
 				Section("Detection settings") {
-					TextField("Serial regex pattern", text: $store.serialRegexPattern)
-						.textInputAutocapitalization(.never)
-						.autocorrectionDisabled()
-
 					Button("Re-run detection") {
 						Task { await runOCRAndExtract() }
 					}
 					.disabled(pickedImage == nil || isProcessing)
-
-					Text("Tip: default finds alphanumeric tokens 8–20 chars. If your serials have a specific format, tighten the regex.")
-						.font(.footnote)
-						.foregroundStyle(.secondary)
 				}
 
 				if !recognizedText.isEmpty {

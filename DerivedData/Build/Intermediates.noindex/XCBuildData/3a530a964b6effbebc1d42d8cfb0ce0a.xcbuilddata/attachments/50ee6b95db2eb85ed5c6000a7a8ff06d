@@ -3,6 +3,10 @@
 /Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ScanView.swift
 /Users/daniel.orlov/Documents/SerialCollector/SerialCollector/HistoryView.swift
 /Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ExportView.swift
+/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/SettingsView.swift
+/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/EmailDraftView.swift
+/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/MailComposeView.swift
+/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ContactEmailPicker.swift
 /Users/daniel.orlov/Documents/SerialCollector/SerialCollector/Models.swift
 /Users/daniel.orlov/Documents/SerialCollector/SerialCollector/DeviceLogStore.swift
 /Users/daniel.orlov/Documents/SerialCollector/SerialCollector/OCRService.swift

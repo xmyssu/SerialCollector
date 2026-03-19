@@ -26,6 +26,8 @@
 	<dict/>
 	<key>NSCameraUsageDescription</key>
 	<string>SerialCollector uses the camera to take a photo and detect serial numbers.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>SerialCollector can pick an email recipient from your contacts.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>SerialCollector uses your photo library to detect serial numbers from pictures.</string>
 </dict>

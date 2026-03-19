@@ -12,6 +12,10 @@
 		10A3A0052C0A000100000001 /* ScanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0042C0A000100000001 /* ScanView.swift */; };
 		10A3A0072C0A000100000001 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0062C0A000100000001 /* HistoryView.swift */; };
 		10A3A0092C0A000100000001 /* ExportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A0082C0A000100000001 /* ExportView.swift */; };
+		10A3A1102C0A000100000001 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A1002C0A000100000001 /* SettingsView.swift */; };
+		10A3A1112C0A000100000001 /* MailComposeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A1012C0A000100000001 /* MailComposeView.swift */; };
+		10A3A1122C0A000100000001 /* EmailDraftView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A1022C0A000100000001 /* EmailDraftView.swift */; };
+		10A3A1132C0A000100000001 /* ContactEmailPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A1032C0A000100000001 /* ContactEmailPicker.swift */; };
 		10A3A00B2C0A000100000001 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A00A2C0A000100000001 /* Models.swift */; };
 		10A3A00D2C0A000100000001 /* DeviceLogStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A00C2C0A000100000001 /* DeviceLogStore.swift */; };
 		10A3A00F2C0A000100000001 /* OCRService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A3A00E2C0A000100000001 /* OCRService.swift */; };
@@ -26,14 +30,18 @@
 		10A3A0042C0A000100000001 /* ScanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanView.swift; sourceTree = "<group>"; };
 		10A3A0062C0A000100000001 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
 		10A3A0082C0A000100000001 /* ExportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportView.swift; sourceTree = "<group>"; };
+		10A3A1002C0A000100000001 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		10A3A1012C0A000100000001 /* MailComposeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailComposeView.swift; sourceTree = "<group>"; };
+		10A3A1022C0A000100000001 /* EmailDraftView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailDraftView.swift; sourceTree = "<group>"; };
+		10A3A1032C0A000100000001 /* ContactEmailPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactEmailPicker.swift; sourceTree = "<group>"; };
 		10A3A00A2C0A000100000001 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		10A3A00C2C0A000100000001 /* DeviceLogStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceLogStore.swift; sourceTree = "<group>"; };
 		10A3A00E2C0A000100000001 /* OCRService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OCRService.swift; sourceTree = "<group>"; };
 		10A3A0102C0A000100000001 /* SerialExtraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerialExtraction.swift; sourceTree = "<group>"; };
 		10A3A0122C0A000100000001 /* ImagePickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickers.swift; sourceTree = "<group>"; };
 		10A3A0142C0A000100000001 /* ShareSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareSheet.swift; sourceTree = "<group>"; };
-
 		10A3A0202C0A000100000001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10A3A0502C0A000100000001 /* SerialCollector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SerialCollector.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +63,6 @@
 			);
 			sourceTree = "<group>";
 		};
-
 		10A3A0412C0A000100000001 /* SerialCollector */ = {
 			isa = PBXGroup;
 			children = (
@@ -65,6 +72,10 @@
 				10A3A0042C0A000100000001 /* ScanView.swift */,
 				10A3A0062C0A000100000001 /* HistoryView.swift */,
 				10A3A0082C0A000100000001 /* ExportView.swift */,
+				10A3A1002C0A000100000001 /* SettingsView.swift */,
+				10A3A1022C0A000100000001 /* EmailDraftView.swift */,
+				10A3A1012C0A000100000001 /* MailComposeView.swift */,
+				10A3A1032C0A000100000001 /* ContactEmailPicker.swift */,
 				10A3A00A2C0A000100000001 /* Models.swift */,
 				10A3A00C2C0A000100000001 /* DeviceLogStore.swift */,
 				10A3A00E2C0A000100000001 /* OCRService.swift */,
@@ -75,7 +86,6 @@
 			path = SerialCollector;
 			sourceTree = "<group>";
 		};
-
 		10A3A0422C0A000100000001 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -157,6 +167,10 @@
 				10A3A0052C0A000100000001 /* ScanView.swift in Sources */,
 				10A3A0072C0A000100000001 /* HistoryView.swift in Sources */,
 				10A3A0092C0A000100000001 /* ExportView.swift in Sources */,
+				10A3A1102C0A000100000001 /* SettingsView.swift in Sources */,
+				10A3A1122C0A000100000001 /* EmailDraftView.swift in Sources */,
+				10A3A1112C0A000100000001 /* MailComposeView.swift in Sources */,
+				10A3A1132C0A000100000001 /* ContactEmailPicker.swift in Sources */,
 				10A3A00B2C0A000100000001 /* Models.swift in Sources */,
 				10A3A00D2C0A000100000001 /* DeviceLogStore.swift in Sources */,
 				10A3A00F2C0A000100000001 /* OCRService.swift in Sources */,
@@ -168,16 +182,6 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXFileReference section (Products) */
-		10A3A0502C0A000100000001 /* SerialCollector.app */ = {
-			isa = PBXFileReference;
-			explicitFileType = wrapper.application;
-			includeInIndex = 0;
-			path = SerialCollector.app;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXFileReference section (Products) */
-
 /* Begin XCBuildConfiguration section */
 		10A3A0802C0A000100000001 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -187,7 +191,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 9H63G2Z87S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = SerialCollector/Info.plist;
@@ -206,7 +210,6 @@
 			};
 			name = Debug;
 		};
-
 		10A3A0812C0A000100000001 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -215,7 +218,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 9H63G2Z87S;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = SerialCollector/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
@@ -233,8 +236,7 @@
 			};
 			name = Release;
 		};
-
-		10A3A0822C0A000100000001 /* Debug (Project) */ = {
+		10A3A0822C0A000100000001 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
@@ -246,8 +248,7 @@
 			};
 			name = Debug;
 		};
-
-		10A3A0832C0A000100000001 /* Release (Project) */ = {
+		10A3A0832C0A000100000001 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
@@ -271,12 +272,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-
 		10A3A0712C0A000100000001 /* Build configuration list for PBXProject "SerialCollector" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				10A3A0822C0A000100000001 /* Debug (Project) */,
-				10A3A0832C0A000100000001 /* Release (Project) */,
+				10A3A0822C0A000100000001 /* Debug */,
+				10A3A0832C0A000100000001 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -285,4 +285,3 @@
 	};
 	rootObject = 10A3A0702C0A000100000001 /* Project object */;
 }
-

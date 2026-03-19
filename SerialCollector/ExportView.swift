@@ -1,15 +1,18 @@
 import SwiftUI
 import UIKit
+import MessageUI
 
 struct ExportView: View {
 	@EnvironmentObject private var store: DeviceLogStore
 	@State private var exportMode: ExportMode = .csv
 	@State private var showShare = false
+	@State private var showEmailDraft = false
 	@State private var lastCopiedBanner = false
 
 	enum ExportMode: String, CaseIterable, Identifiable {
 		case csv = "CSV"
 		case separated = "Separated"
+		case email = "Email"
 
 		var id: String { rawValue }
 	}
@@ -46,6 +49,15 @@ struct ExportView: View {
 					}
 					.disabled(store.entries.isEmpty)
 
+					if exportMode == .email {
+						Button {
+							showEmailDraft = true
+						} label: {
+							Label("Email…", systemImage: "envelope")
+						}
+						.disabled(store.entries.isEmpty)
+					}
+
 					Button {
 						showShare = true
 					} label: {
@@ -58,8 +70,11 @@ struct ExportView: View {
 					if exportMode == .csv {
 						Text("CSV is easiest to paste into Excel/Sheets.")
 							.foregroundStyle(.secondary)
-					} else {
+					} else if exportMode == .separated {
 						Text("Separated format is easiest to paste into email/chat; each device entry is separated by a divider.")
+							.foregroundStyle(.secondary)
+					} else {
+						Text("Email format generates Estonian sentences. You can customize the template in Settings, and edit the message before sending.")
 							.foregroundStyle(.secondary)
 					}
 				}
@@ -78,6 +93,10 @@ struct ExportView: View {
 			.sheet(isPresented: $showShare) {
 				ShareSheet(items: [exportText])
 			}
+			.sheet(isPresented: $showEmailDraft) {
+				EmailDraftView()
+					.environmentObject(store)
+			}
 		}
 	}
 
@@ -87,6 +106,8 @@ struct ExportView: View {
 			return store.exportCSV()
 		case .separated:
 			return store.exportSeparatedText()
+		case .email:
+			return store.exportEmailBody()
 		}
 	}
 }

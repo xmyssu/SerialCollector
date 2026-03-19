@@ -7,7 +7,7 @@
         "key": "Export",
         "location": {
           "startingColumn": 21,
-          "startingLine": 67
+          "startingLine": 82
         }
       },
       {
@@ -15,7 +15,7 @@
         "key": "Format",
         "location": {
           "startingColumn": 13,
-          "startingLine": 20
+          "startingLine": 23
         }
       },
       {
@@ -23,7 +23,7 @@
         "key": "Preview",
         "location": {
           "startingColumn": 13,
-          "startingLine": 29
+          "startingLine": 32
         }
       },
       {
@@ -31,7 +31,7 @@
         "key": "Notes",
         "location": {
           "startingColumn": 13,
-          "startingLine": 57
+          "startingLine": 69
         }
       },
       {
@@ -39,7 +39,7 @@
         "key": "Export format",
         "location": {
           "startingColumn": 13,
-          "startingLine": 21
+          "startingLine": 24
         }
       },
       {
@@ -47,7 +47,15 @@
         "key": "Copy to Clipboard",
         "location": {
           "startingColumn": 13,
-          "startingLine": 45
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email…",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 56
         }
       },
       {
@@ -55,7 +63,7 @@
         "key": "Share…",
         "location": {
           "startingColumn": 13,
-          "startingLine": 52
+          "startingLine": 64
         }
       },
       {
@@ -63,7 +71,7 @@
         "key": "CSV is easiest to paste into Excel/Sheets.",
         "location": {
           "startingColumn": 12,
-          "startingLine": 59
+          "startingLine": 71
         }
       },
       {
@@ -71,7 +79,15 @@
         "key": "Separated format is easiest to paste into email/chat; each device entry is separated by a divider.",
         "location": {
           "startingColumn": 12,
-          "startingLine": 62
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email format generates Estonian sentences. You can customize the template in Settings, and edit the message before sending.",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 77
         }
       },
       {
@@ -79,7 +95,7 @@
         "key": "Copied",
         "location": {
           "startingColumn": 11,
-          "startingLine": 70
+          "startingLine": 85
         }
       }
     ]

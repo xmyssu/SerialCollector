@@ -6,7 +6,7 @@
 	<integer>12</integer>
 	<key>logs</key>
 	<dict>
-		<key>7783B5BC-F1FF-482E-85D3-65D779A14669</key>
+		<key>D206DCCA-078E-4EF5-ADC0-0E5378105B28</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,49 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7783B5BC-F1FF-482E-85D3-65D779A14669.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SerialCollector project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SerialCollector</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project SerialCollector with scheme SerialCollector</string>
-			<key>timeStartedRecording</key>
-			<real>795466267.54190397</real>
-			<key>timeStoppedRecording</key>
-			<real>795466268.26352596</real>
-			<key>title</key>
-			<string>Building project SerialCollector with scheme SerialCollector</string>
-			<key>uniqueIdentifier</key>
-			<string>7783B5BC-F1FF-482E-85D3-65D779A14669</string>
-		</dict>
-		<key>D9400834-AFB2-4BF4-B192-EC0C37EE2170</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D9400834-AFB2-4BF4-B192-EC0C37EE2170.xcactivitylog</string>
+			<string>D206DCCA-078E-4EF5-ADC0-0E5378105B28.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -82,13 +40,55 @@
 			<key>signature</key>
 			<string>Building project SerialCollector with scheme SerialCollector</string>
 			<key>timeStartedRecording</key>
-			<real>795466514.80243003</real>
+			<real>795591403.75807595</real>
 			<key>timeStoppedRecording</key>
-			<real>795466515.85882795</real>
+			<real>795591408.46106398</real>
 			<key>title</key>
 			<string>Building project SerialCollector with scheme SerialCollector</string>
 			<key>uniqueIdentifier</key>
-			<string>D9400834-AFB2-4BF4-B192-EC0C37EE2170</string>
+			<string>D206DCCA-078E-4EF5-ADC0-0E5378105B28</string>
+		</dict>
+		<key>EA87554E-B560-44FF-88B5-566A5E399570</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EA87554E-B560-44FF-88B5-566A5E399570.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SerialCollector project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SerialCollector</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project SerialCollector with scheme SerialCollector</string>
+			<key>timeStartedRecording</key>
+			<real>795555444.64024997</real>
+			<key>timeStoppedRecording</key>
+			<real>795555448.31517398</real>
+			<key>title</key>
+			<string>Building project SerialCollector with scheme SerialCollector</string>
+			<key>uniqueIdentifier</key>
+			<string>EA87554E-B560-44FF-88B5-566A5E399570</string>
 		</dict>
 	</dict>
 </dict>

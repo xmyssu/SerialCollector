@@ -7,6 +7,14 @@ enum DeviceMovement: String, Codable, CaseIterable, Identifiable {
 	var id: String { rawValue }
 }
 
+enum AppColorScheme: String, Codable, CaseIterable, Identifiable {
+	case system
+	case light
+	case dark
+
+	var id: String { rawValue }
+}
+
 struct DeviceLogEntry: Codable, Identifiable, Equatable {
 	var id: UUID
 	var createdAt: Date

@@ -6,6 +6,16 @@
     "pch" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollector-primary-Bridging-header.pch",
     "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialCollector-primary.swiftdeps"
   },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ContactEmailPicker.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContactEmailPicker.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContactEmailPicker.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContactEmailPicker.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContactEmailPicker.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContactEmailPicker.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContactEmailPicker.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContactEmailPicker.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContactEmailPicker~partial.swiftmodule"
+  },
   "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ContentView.swift" : {
     "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContentView.swiftconstvalues",
     "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ContentView.d",
@@ -25,6 +35,16 @@
     "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore.o",
     "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore.swiftdeps",
     "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/DeviceLogStore~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/EmailDraftView.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/EmailDraftView.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/EmailDraftView.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/EmailDraftView.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/EmailDraftView.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/EmailDraftView.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/EmailDraftView.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/EmailDraftView.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/EmailDraftView~partial.swiftmodule"
   },
   "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ExportView.swift" : {
     "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ExportView.swiftconstvalues",
@@ -55,6 +75,16 @@
     "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers.o",
     "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers.swiftdeps",
     "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ImagePickers~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/MailComposeView.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/MailComposeView.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/MailComposeView.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/MailComposeView.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/MailComposeView.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/MailComposeView.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/MailComposeView.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/MailComposeView.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/MailComposeView~partial.swiftmodule"
   },
   "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/Models.swift" : {
     "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/Models.swiftconstvalues",
@@ -105,6 +135,16 @@
     "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction.o",
     "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction.swiftdeps",
     "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SerialExtraction~partial.swiftmodule"
+  },
+  "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/SettingsView.swift" : {
+    "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
   },
   "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/ShareSheet.swift" : {
     "const-values" : "/Users/daniel.orlov/Documents/SerialCollector/DerivedData/Build/Intermediates.noindex/SerialCollector.build/Debug-iphoneos/SerialCollector.build/Objects-normal/arm64/ShareSheet.swiftconstvalues",

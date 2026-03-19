@@ -1,0 +1,144 @@
+{
+  "source": "/Users/daniel.orlov/Documents/SerialCollector/SerialCollector/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Appearance",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 9
+        }
+      },
+      {
+        "comment": "",
+        "key": "Serial detection",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email defaults",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email template",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Theme",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 10
+        }
+      },
+      {
+        "comment": "",
+        "key": "System",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Light",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 12
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dark",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "If your serials start with CN/PF/etc, you can tighten the regex (example: `\\b(?:CN|PF)[A-Z0-9]{6,18}\\b`).",
+        "location": {
+          "startingColumn": 11,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Serial regex pattern",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Default recipient (To)",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Default subject",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use placeholders: `{serial}` and `{person}`.",
+        "location": {
+          "startingColumn": 11,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Greeting line",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Returned template",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Assigned template",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 41
+        }
+      }
+    ]
+  },
+  "version": 1
+}

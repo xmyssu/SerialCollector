@@ -7,7 +7,7 @@
         "key": "Scan",
         "location": {
           "startingColumn": 22,
-          "startingLine": 7
+          "startingLine": 9
         }
       },
       {
@@ -15,7 +15,7 @@
         "key": "History",
         "location": {
           "startingColumn": 22,
-          "startingLine": 10
+          "startingLine": 12
         }
       },
       {
@@ -23,7 +23,15 @@
         "key": "Export",
         "location": {
           "startingColumn": 22,
-          "startingLine": 13
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 18
         }
       }
     ]
